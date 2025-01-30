@@ -10,3 +10,7 @@ This tutorial will guide through on how to send third-party apps from your phone
 How does it work?
 
 It hosts an apache server right on your phone to distribute the app the same way Samsung TV SDK (pre-tizen) does.
+
+### Prerequisites
+- Termux
+- 
